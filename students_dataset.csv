@@ -1,0 +1,161 @@
+student_id,name,branch,cgpa,backlogs,internships,skills,status,company,readiness_score
+1,Rahul Sharma,ECE,6.93,0,0,IoT; Embedded C; MATLAB; Signal Processing,Placed,Cobalt Analytics,47
+2,Manoj Choudhury,AIML,8.13,1,2,SQL; Computer Vision; Scikit-learn,Placed,Zenith Systems,62
+3,Farhan Kalita,ECE,7.06,0,2,Embedded C; MATLAB,Placed,Meridian Tech,61
+4,Kabita Gogoi,AIML,8.77,0,3,TensorFlow; Scikit-learn; PyTorch,Not Applied,—,83
+5,Lokesh Talukdar,CSE,8.68,0,0,Java; Spring; System Design,Shortlisted,—,52
+6,Bikash Talukdar,CSE,7.41,0,0,Docker; Java; Node.js; Spring,Applied,—,49
+7,Nabanita Alam,IT,7.44,3,1,Node; Linux; AWS; React,Placed,Zenith Systems,35
+8,Sanjib Bora,ECE,6.25,1,1,Verilog; VLSI; MATLAB; IoT,Not Applied,—,45
+9,Bikash Boro,ECE,6.53,1,1,IoT; MATLAB; Signal Processing; VLSI,Placed,Orbit Semicon,47
+10,Elina Phukan,AIML,8.87,1,0,NLP; Scikit-learn,Placed,Silverline Softworks,42
+11,Kabita Rajkhowa,ECE,9.69,1,0,Embedded C; IoT; Verilog; MATLAB,Shortlisted,—,52
+12,Qadir Kalita,CSE,7.72,2,2,Node.js; Spring; System Design,Not Applied,—,52
+13,Rimjhim Choudhury,CSE,6.58,1,1,Java; Node.js; C++; DSA,Placed,Meridian Tech,47
+14,Rimjhim Baruah,AIML,6.92,0,0,Computer Vision; NLP; Python; Scikit-learn,Not Applied,—,47
+15,Nitu Phukan,CSE,7.01,1,1,Node.js; Docker,Applied,—,43
+16,Rimjhim Bora,ECE,7.66,0,0,Embedded C; Verilog,Placed,Cobalt Analytics,44
+17,Jitu Baruah,AIML,6.27,0,0,Pandas; Python,Applied,—,37
+18,Papori Phukan,CSE,8.05,1,2,DSA; Spring; System Design; Node.js,Placed,Northwind Labs,64
+19,Zubin Talukdar,IT,7.56,1,0,Linux; React; Networking; MongoDB,Applied,—,42
+20,Ankita Baruah,CSE,6.72,0,1,DSA; Spring; Java,Shortlisted,—,53
+21,Hemanta Singh,AIML,8.48,0,0,SQL; TensorFlow,Shortlisted,—,48
+22,Chandana Deka,IT,9.43,0,0,AWS; MongoDB; Networking,Shortlisted,—,56
+23,Hemanta Phukan,CSE,6.72,0,0,Node.js; Java; C++; Docker,Placed,Bluepeak Robotics,46
+24,Elina Choudhury,CSE,6.22,0,2,Node.js; Java,Applied,—,57
+25,Nabanita Bora,AIML,9.58,0,1,TensorFlow; SQL,Applied,—,64
+26,Ishani Choudhury,ECE,9.55,0,2,Verilog; MATLAB,Placed,Vantage Cloud,74
+27,Bikash Hazarika,AIML,6.04,0,1,TensorFlow; Scikit-learn,Placed,Vantage Cloud,46
+28,Nitu Talukdar,AIML,9.34,0,0,Scikit-learn; Computer Vision; Pandas; NLP,Placed,Vantage Cloud,59
+29,Ankita Boro,ECE,6.44,0,1,Verilog; IoT; VLSI,Applied,—,51
+30,Lakhi Gogoi,IT,6.95,1,0,MongoDB; AWS; React; DevOps,Shortlisted,—,39
+31,Nitu Gogoi,CSE,8.82,0,1,Java; System Design,Not Applied,—,60
+32,Bhaskar Barman,AIML,9.17,0,0,Python; PyTorch,Shortlisted,—,52
+33,Mousumi Talukdar,CSE,8.59,0,1,System Design; DSA; Node.js; Spring,Not Applied,—,65
+34,Juri Kalita,AIML,6.68,1,2,SQL; PyTorch; TensorFlow,Not Applied,—,54
+35,Ankita Bora,AIML,9.26,0,2,Pandas; PyTorch; TensorFlow,Placed,Cobalt Analytics,75
+36,Xena Hazarika,ECE,9.28,2,0,IoT; MATLAB; Verilog; Embedded C,Placed,Vantage Cloud,42
+37,Juri Sarma,ECE,6.15,0,1,MATLAB; IoT; Embedded C,Shortlisted,—,50
+38,Ishani Deka,ECE,6.17,0,1,Signal Processing; VLSI; Verilog; IoT,Placed,Meridian Tech,53
+39,Lokesh Hazarika,AIML,8.74,0,1,Pandas; SQL; Computer Vision,Placed,Orbit Semicon,63
+40,Kaustav Kalita,IT,8.57,1,1,MongoDB; DevOps; React,Shortlisted,—,54
+41,Lakhi Kalita,ECE,7.77,0,0,Signal Processing; VLSI; Embedded C,Placed,Meridian Tech,48
+42,Sameer Baruah,ECE,6.85,0,0,MATLAB; IoT,Not Applied,—,40
+43,Priyanka Rajkhowa,IT,9.37,0,2,MongoDB; Networking; Node,Placed,Zenith Systems,76
+44,Ankita Kalita,CSE,6.67,2,1,Node.js; Spring,Not Applied,—,33
+45,Rahul Rajkhowa,CSE,9.05,0,3,C++; DSA; Node.js; Docker,Not Applied,—,87
+46,Hemanta Rajkhowa,CSE,8.83,0,0,System Design; Docker,Placed,Bluepeak Robotics,50
+47,Nabanita Gogoi,IT,6.29,0,0,DevOps; React; Node,Placed,Silverline Softworks,40
+48,Bhaskar Deka,AIML,7.58,0,1,SQL; NLP,Shortlisted,—,54
+49,Jitu Sharma,IT,7.81,2,0,Networking; MongoDB; DevOps,Applied,—,32
+50,Gitanjali Nath,CSE,7.86,0,1,C++; Docker; DSA,Applied,—,58
+51,Lokesh Barman,AIML,9.45,0,2,NLP; TensorFlow,Not Applied,—,73
+52,Juri Khan,ECE,7.44,0,1,Verilog; MATLAB; Signal Processing,Not Applied,—,56
+53,Chandana Sharma,AIML,9.8,0,2,Python; NLP; Computer Vision; TensorFlow,Placed,Zenith Systems,81
+54,Lokesh Boro,CSE,6.48,0,1,DSA; Docker,Placed,Meridian Tech,48
+55,Farhan Nath,AIML,8.96,0,1,Python; PyTorch; Scikit-learn; SQL,Shortlisted,—,67
+56,Kaustav Das,CSE,6.39,1,2,System Design; Java; Node.js; Docker,Shortlisted,—,56
+57,Priyanka Choudhury,ECE,6.05,0,1,Verilog; MATLAB; VLSI,Shortlisted,—,49
+58,Firoz Gogoi,IT,7.77,1,1,Networking; Node; React,Placed,Bluepeak Robotics,50
+59,Nabanita Rajkhowa,IT,7.28,0,1,Node; AWS; Linux,Shortlisted,—,55
+60,Hemanta Sharma,CSE,6.33,1,1,Docker; DSA,Applied,—,40
+61,Dipankar Rajkhowa,AIML,6.35,0,2,Pandas; SQL; Scikit-learn,Applied,—,61
+62,Zubin Barman,ECE,7.34,0,1,Embedded C; VLSI,Shortlisted,—,53
+63,Gitanjali Alam,CSE,6.82,0,2,Node.js; C++; Java; Spring,Placed,Meridian Tech,66
+64,Juri Saikia,AIML,8.69,0,0,Scikit-learn; Pandas,Not Applied,—,49
+65,Dipankar Singh,AIML,8.18,0,1,Python; PyTorch,Not Applied,—,57
+66,Chandana Singh,AIML,7.52,0,1,PyTorch; TensorFlow,Not Applied,—,54
+67,Rimjhim Das,CSE,6.45,1,1,Spring; Node.js; DSA; Docker,Not Applied,—,46
+68,Rimjhim Sarma,IT,7.16,0,1,React; Node; Linux; AWS,Applied,—,58
+69,Farhan Baruah,CSE,8.1,0,1,Node.js; DSA; C++; Java,Placed,Vantage Cloud,62
+70,Bikash Das,CSE,9.51,1,1,System Design; Spring; DSA; Java,Applied,—,62
+71,Bhaskar Gogoi,CSE,6.27,0,1,System Design; Node.js; C++; DSA,Placed,Vantage Cloud,53
+72,Xena Gogoi,IT,7.66,0,2,AWS; DevOps; Networking; React,Placed,Zenith Systems,70
+73,Papori Sarma,AIML,8.9,0,1,Scikit-learn; TensorFlow; Computer Vision,Shortlisted,—,64
+74,Dipankar Das,IT,7.32,0,2,AWS; MongoDB,Applied,—,63
+75,Qadir Bora,AIML,7.73,0,1,Python; Pandas; Scikit-learn,Shortlisted,—,58
+76,Devraj Deka,ECE,8.37,0,1,VLSI; Verilog,Applied,—,58
+77,Qadir Rajkhowa,IT,6.46,2,1,Linux; Node,Shortlisted,—,32
+78,Ritika Barman,IT,6.35,3,3,React; Linux; Node,Shortlisted,—,47
+79,Qadir Choudhury,ECE,7.58,0,1,IoT; VLSI; MATLAB,Placed,Orbit Semicon,57
+80,Priyanka Gogoi,IT,7.29,1,0,AWS; Linux,Placed,Bluepeak Robotics,34
+81,Bhaskar Rajkhowa,IT,7.31,0,1,AWS; Node; Linux,Applied,—,56
+82,Manoj Kalita,AIML,7.21,0,3,NLP; Pandas; Computer Vision,Not Applied,—,75
+83,Dipankar Khan,CSE,7.91,0,2,Java; Node.js; DSA,Placed,Orbit Semicon,69
+84,Yasmin Boro,AIML,7.78,2,1,NLP; Pandas; Python; PyTorch,Not Applied,—,45
+85,Gitanjali Bora,ECE,8.38,1,1,Embedded C; IoT; Signal Processing; MATLAB,Applied,—,56
+86,Qadir Baruah,AIML,7.65,0,1,Computer Vision; TensorFlow,Applied,—,54
+87,Arif Khan,ECE,9.03,0,1,VLSI; IoT,Shortlisted,—,61
+88,Juri Alam,CSE,6.3,1,1,DSA; Node.js,Placed,Bluepeak Robotics,40
+89,Om Rajkhowa,ECE,8.53,1,1,Signal Processing; IoT; VLSI,Placed,Meridian Tech,54
+90,Jitu Saikia,IT,8.62,0,1,Networking; MongoDB; React,Placed,Meridian Tech,62
+91,Ishani Saikia,ECE,6.08,1,1,IoT; Embedded C,Not Applied,—,38
+92,Dipankar Saikia,CSE,8.31,0,1,C++; Docker; Spring; Java,Not Applied,—,64
+93,Mousumi Saikia,IT,6.13,0,0,AWS; Linux; MongoDB,Placed,Orbit Semicon,40
+94,Gitanjali Talukdar,ECE,9.16,0,2,Verilog; Signal Processing; Embedded C,Shortlisted,—,75
+95,Priyanka Boro,CSE,9.27,1,3,C++; Java; DSA; Docker,Placed,Northwind Labs,80
+96,Om Sarma,IT,9.13,2,0,MongoDB; React,Applied,—,36
+97,Hemanta Hazarika,CSE,8.46,0,1,C++; Docker; DSA; Java,Placed,Zenith Systems,64
+98,Rimjhim Phukan,AIML,6.37,1,0,Pandas; Computer Vision; NLP,Applied,—,33
+99,Gitanjali Kalita,CSE,9.36,0,2,DSA; C++; Java; Docker,Placed,Bluepeak Robotics,79
+100,Nabanita Talukdar,AIML,9.73,0,3,Pandas; Python; SQL; PyTorch,Placed,Northwind Labs,91
+101,Lakhi Nath,AIML,6.19,0,3,SQL; Python; Scikit-learn; TensorFlow,Applied,—,73
+102,Manoj Hazarika,CSE,9.0,0,0,Spring; Node.js,Placed,Orbit Semicon,51
+103,Nitu Sharma,ECE,9.0,0,1,Verilog; Embedded C,Placed,Silverline Softworks,61
+104,Firoz Singh,AIML,7.81,1,1,Computer Vision; Scikit-learn,Placed,Zenith Systems,47
+105,Firoz Saikia,IT,8.44,0,3,MongoDB; Linux; React,Shortlisted,—,81
+106,Anamika Das,AIML,7.22,0,0,Pandas; SQL; Scikit-learn; Computer Vision,Placed,Silverline Softworks,48
+107,Ankita Singh,CSE,7.63,1,1,DSA; System Design; Java,Shortlisted,—,49
+108,Sanjib Gogoi,ECE,9.62,0,1,Embedded C; Signal Processing,Shortlisted,—,64
+109,Vikram Boro,AIML,8.23,0,1,NLP; PyTorch,Not Applied,—,57
+110,Zubin Khan,ECE,8.28,0,1,VLSI; MATLAB,Placed,Northwind Labs,57
+111,Uzma Barman,ECE,6.44,0,0,IoT; Signal Processing; Embedded C,Applied,—,41
+112,Papori Sharma,CSE,7.04,1,3,Java; Spring; Docker,Applied,—,66
+113,Xena Das,CSE,8.82,2,0,Spring; DSA; Docker; Node.js,Shortlisted,—,40
+114,Vikram Saikia,ECE,8.95,0,0,VLSI; Signal Processing,Not Applied,—,51
+115,Devraj Das,ECE,7.68,0,1,Verilog; VLSI; Embedded C,Shortlisted,—,57
+116,Rahul Saikia,IT,8.0,0,0,React; Networking; Node; AWS,Not Applied,—,52
+117,Qadir Hazarika,AIML,6.03,1,0,SQL; Scikit-learn; NLP,Not Applied,—,31
+118,Uzma Das,IT,9.27,0,0,Networking; AWS,Applied,—,52
+119,Ishani Bora,IT,7.1,0,3,Networking; DevOps,Shortlisted,—,72
+120,Vikram Das,IT,9.21,0,1,React; MongoDB; AWS; DevOps,Placed,Orbit Semicon,68
+121,Rahul Choudhury,CSE,9.44,0,2,System Design; Spring; Docker; Java,Placed,Cobalt Analytics,79
+122,Juri Nath,CSE,8.89,0,0,DSA; System Design; Node.js; Docker,Applied,—,56
+123,Ishani Nath,ECE,9.28,0,0,MATLAB; Signal Processing,Applied,—,52
+124,Devraj Talukdar,AIML,7.18,0,0,TensorFlow; Pandas; Python,Applied,—,45
+125,Elina Bora,IT,8.21,2,2,MongoDB; DevOps,Applied,—,51
+126,Sanjib Nath,IT,7.91,2,1,Linux; React; DevOps,Applied,—,43
+127,Mousumi Baruah,IT,9.77,0,1,AWS; Networking; MongoDB,Shortlisted,—,68
+128,Tridip Nath,AIML,9.0,0,0,NLP; PyTorch,Placed,Orbit Semicon,51
+129,Tridip Das,CSE,9.48,0,2,DSA; Spring; Node.js; Java,Shortlisted,—,79
+130,Wasim Hazarika,CSE,8.55,1,2,Node.js; Java; DSA; C++,Placed,Vantage Cloud,67
+131,Juri Deka,ECE,9.6,0,0,VLSI; Embedded C,Placed,Northwind Labs,54
+132,Elina Barman,AIML,8.52,1,1,NLP; TensorFlow; Computer Vision; Pandas,Not Applied,—,57
+133,Lokesh Alam,IT,6.17,0,2,DevOps; AWS; MongoDB,Placed,Cobalt Analytics,60
+134,Kaustav Talukdar,IT,7.75,0,1,MongoDB; Node; Linux; DevOps,Not Applied,—,61
+135,Devraj Phukan,ECE,8.11,0,2,Verilog; Embedded C,Not Applied,—,67
+136,Papori Rajkhowa,CSE,9.16,0,3,C++; Java; DSA,Placed,Meridian Tech,85
+137,Sameer Talukdar,CSE,6.11,2,2,C++; Spring; Docker; Java,Placed,Bluepeak Robotics,47
+138,Anamika Nath,AIML,9.44,0,0,NLP; Python,Not Applied,—,53
+139,Nabanita Saikia,AIML,6.18,0,2,TensorFlow; Python; SQL,Applied,—,60
+140,Arif Choudhury,CSE,8.73,0,0,Spring; Node.js; DSA,Placed,Northwind Labs,53
+141,Firoz Talukdar,AIML,9.62,0,2,Python; SQL; NLP; Computer Vision,Applied,—,80
+142,Vikram Gogoi,AIML,7.36,0,0,TensorFlow; NLP; Scikit-learn; PyTorch,Placed,Meridian Tech,49
+143,Gitanjali Hazarika,CSE,9.16,0,3,Docker; Spring; System Design,Placed,Bluepeak Robotics,85
+144,Kaustav Khan,CSE,9.37,0,1,System Design; Node.js; DSA,Placed,Cobalt Analytics,66
+145,Qadir Talukdar,AIML,9.29,0,0,NLP; SQL; Pandas,Shortlisted,—,55
+146,Juri Phukan,IT,7.4,1,0,Linux; MongoDB,Placed,Orbit Semicon,35
+147,Gitanjali Saikia,ECE,6.39,0,0,IoT; MATLAB; VLSI,Applied,—,41
+148,Uzma Rajkhowa,AIML,8.76,1,1,Scikit-learn; Pandas; Python,Placed,Silverline Softworks,55
+149,Vikram Choudhury,CSE,9.62,0,1,Java; Spring; System Design,Placed,Meridian Tech,67
+150,Vikram Bora,AIML,8.3,0,3,Computer Vision; NLP; Python,Applied,—,80
+151,Papori Baruah,AIML,6.1,0,1,TensorFlow; PyTorch; NLP; SQL,Placed,Vantage Cloud,52
+152,Dipankar Deka,AIML,6.52,0,0,Computer Vision; Python; Pandas; PyTorch,Applied,—,45
+153,Priyanka Barman,ECE,9.39,1,2,Signal Processing; VLSI; Verilog; MATLAB,Placed,Cobalt Analytics,71
+154,Nitu Baruah,IT,6.1,0,1,Node; DevOps; React; Linux,Shortlisted,—,52
+155,Chandana Choudhury,IT,8.92,1,0,Linux; React; MongoDB,Shortlisted,—,46
+156,Nitu Barman,CSE,8.92,0,1,System Design; Java,Applied,—,61
+157,Rimjhim Alam,CSE,7.23,1,1,C++; Java; System Design; Spring,Applied,—,50
+158,Hemanta Gogoi,CSE,8.38,0,0,Spring; Node.js; Docker; System Design,Placed,Meridian Tech,54
+159,Ishani Khan,AIML,6.31,2,2,SQL; NLP; Scikit-learn,Shortlisted,—,45
+160,Arif Phukan,ECE,8.44,0,0,MATLAB; Verilog; Signal Processing; Embedded C,Applied,—,54

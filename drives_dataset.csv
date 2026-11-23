@@ -1,0 +1,7 @@
+drive_id,company,role,package_lpa,drive_date,applicants,shortlisted,hired,stage
+1,Zenith Systems,SDE-1,9.2,Aug 12,118,22,6,Completed
+2,Northwind Labs,Data Analyst,7.8,Aug 20,94,18,4,Completed
+3,Orbit Semicon,VLSI Engineer,8.5,Sep 02,61,14,0,Shortlisting
+4,Cobalt Analytics,SDE Intern,6.0,Sep 10,140,0,0,Applications Open
+5,Vantage Cloud,Cloud Support Engineer,7.2,Sep 18,52,0,0,Applications Open
+6,Meridian Tech,Embedded Systems Engineer,8.0,Sep 25,45,0,0,Applications Open
